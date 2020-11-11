@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="i_apos_m_screen_2_activity_main2_xml">I\'m screen 2 (activity_main2.xml)</string>
+    <string name="Secondform" />
+</resources>
